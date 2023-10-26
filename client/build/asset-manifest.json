@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08838b93.css",
+    "main.js": "/static/js/main.70250b77.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Sangavi.pdf": "/static/media/Sangavi.5da34047cc72e5ed2dc3.pdf",
+    "static/media/profile.jpg": "/static/media/profile.96d1b3c3b22d7c7c0293.jpg",
+    "index.html": "/index.html",
+    "main.08838b93.css.map": "/static/css/main.08838b93.css.map",
+    "main.70250b77.js.map": "/static/js/main.70250b77.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08838b93.css",
+    "static/js/main.70250b77.js"
+  ]
+}
